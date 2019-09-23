@@ -1,0 +1,38 @@
+{
+  "name": "Adventurazone",
+  "short_name": "Adventurazone",
+  "start_url": "https://adv.tahsin.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang berisi seputar perjalanan, kuliner, blogging, dan informasi penting lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-DMq1cs1WAEo/XYgalWFkCyI/AAAAAAAADzc/idxo8tB7zdQ_Xk8yW7Sd82FXf2-kEHIqQCLcBGAsYHQ/s48/Adventurazone.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DMq1cs1WAEo/XYgalWFkCyI/AAAAAAAADzc/idxo8tB7zdQ_Xk8yW7Sd82FXf2-kEHIqQCLcBGAsYHQ/s72/Adventurazone.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DMq1cs1WAEo/XYgalWFkCyI/AAAAAAAADzc/idxo8tB7zdQ_Xk8yW7Sd82FXf2-kEHIqQCLcBGAsYHQ/s96/Adventurazone.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DMq1cs1WAEo/XYgalWFkCyI/AAAAAAAADzc/idxo8tB7zdQ_Xk8yW7Sd82FXf2-kEHIqQCLcBGAsYHQ/s144/Adventurazone.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DMq1cs1WAEo/XYgalWFkCyI/AAAAAAAADzc/idxo8tB7zdQ_Xk8yW7Sd82FXf2-kEHIqQCLcBGAsYHQ/s168/Adventurazone.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DMq1cs1WAEo/XYgalWFkCyI/AAAAAAAADzc/idxo8tB7zdQ_Xk8yW7Sd82FXf2-kEHIqQCLcBGAsYHQ/s192/Adventurazone.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DMq1cs1WAEo/XYgalWFkCyI/AAAAAAAADzc/idxo8tB7zdQ_Xk8yW7Sd82FXf2-kEHIqQCLcBGAsYHQ/s512/Adventurazone.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
